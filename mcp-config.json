@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "loomi-connect": {
+      "type": "http",
+      "url": "https://loomi-mcp-alpha.bloomreach.com/mcp",
+      "transport": "http",
+      "note": "Loomi Connect MCP server for Bloomreach Marketing and Analytics tools. Requires SSO authentication via Bloomreach login on first use. Session persists for up to 30 days."
+    }
+  }
+}
