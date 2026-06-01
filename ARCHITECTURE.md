@@ -51,8 +51,8 @@ The MCP layer is the bridge between the agent runtime and Bloomreach data. It ex
 ---
 
 ### Layer 4 — Bloomreach Engagement sandbox
-**Workspace:** neon-walrus (`a4043a6c-5469-11f1-9fdb-862b79b06b65`)  
-**Organization:** Hackathon Org (`1e01c518-2d5e-4566-9091-3d100f95b03b`)
+**Workspace:** neon-walrus (ID redacted)
+**Organization:** Hackathon Org (ID redacted)
 
 The sandbox contains:
 - 123,160 synthetic customer profiles
